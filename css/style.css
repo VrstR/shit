@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: none; border-box;
+}
+body {
+  padding: 30px;
+  background: #222222;
+}
+
+.block {
+  border: 1px solid gray;
+  max-width: 650px;
+  margin: 0px auto;
+  height: 800px;
+}
+
+.block_1 {
+}
+
+.block_2 {
+}
+
+.block_3 {
+}
+
+ul{
+  margin:23px;
+  position: fixed;
+  margin-top: 3%;
+
+}
+li {
+  margin: 15px;
+}
+.ava {
+  margin-left: 3%;
+  position: fixed;
+
+}
